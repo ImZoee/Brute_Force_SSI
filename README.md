@@ -1,5 +1,6 @@
 #### **Brute force RAR archive**
 Bine ai venit, acesta este un prim chalange pentru **"Securitatea Sistemelor Informatice"**!
+
 Cu ajutorul acestui proiect vei putea sparge parola arhivei rar prin **brute-force** de formatul **llllcc0**:
 - l=litera mica(excemplu e)
 - 0=cifra(exemplu 0)
