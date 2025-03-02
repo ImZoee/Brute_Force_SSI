@@ -5,4 +5,5 @@ Cu ajutorul acestui proiect vei putea sparge parola arhivei rar prin **brute-for
 - l=litera mica(excemplu e)
 - c=cifra(exemplu 2)
 - 0=cifra(exemplu 0)
+
 Acest program lucreaza pe multithreading, fiind unul dintre cele mai rapide procese.
